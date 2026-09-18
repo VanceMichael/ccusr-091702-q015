@@ -1,0 +1,7 @@
+{
+  "name": "shared-asset-custody",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"migrate": "node src/migrate.js", "test": "node --test", "start": "node src/server.js"}
+}
